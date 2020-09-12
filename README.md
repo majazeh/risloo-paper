@@ -4,7 +4,7 @@ This is a project for scanning a multiple choice bubble sheet.
 To run the Demo file, follow the below commands:
 
 1. Install python >=3.7 
-2. Install requirement libraries with this command `pip install -r requirements.txt`  
+2. Install requirement libraries with this command `pip install -r ./requirements.txt`  
 2. Put all of your scanned sheet images in the `./Tests` directory or an another specific directory .
 3. Run `Scanner.py --image_folder [The folder which your sheets are in that directory ("./ Tests" directory or your own directory)]`  
 4. The edited images will be saved in the `./Adjusted_tests` directory 
