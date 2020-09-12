@@ -1,0 +1,8 @@
+opencv-python
+numpy
+statistics
+imutils
+argparse
+pyzbar
+Multi-Template-Matching
+pathlib
