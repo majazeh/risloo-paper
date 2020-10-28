@@ -5,6 +5,7 @@ To run the Demo file, follow the below commands:
 
 1. Install Python >=3.7 
 2. Install required libraries with this command `pip install -r ./requirements.txt`  
+3. If you use Windows os, skip this stage, but if you use Unix os, run `sudo apt-get install libzbar0` command in the terminal.
 3. Run `risloo_paper.py --image_files [path of image files of your test]`. 
    * For example  for a test with a single page :  `risloo_paper.py --image_files ./test1.jpg `
    * For a test with multiple pages : `risloo_paper.py --image_files ./test1_page1.jpg ./test1_page2.png ./test1_page3.jpg`
